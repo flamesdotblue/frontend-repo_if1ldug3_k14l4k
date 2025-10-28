@@ -1,6 +1,6 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Brands from "./components/Brands";
+import Categories from "./components/Categories";
 import ProductGrid from "./components/ProductGrid";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <main>
         <Hero />
-        <Brands />
+        <Categories />
         <ProductGrid />
 
         {/* Footer section */}

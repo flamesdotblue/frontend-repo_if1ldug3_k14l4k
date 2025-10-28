@@ -42,7 +42,7 @@ export default function Hero() {
         <div className="relative">
           <div className="absolute -inset-10 -z-0 rounded-full bg-gradient-to-tr from-indigo-200 via-white to-pink-100 blur-3xl" />
           <img
-            src="https://images.unsplash.com/photo-1519741497674-611481863552?q=80&w=1600&auto=format&fit=crop"
+            src="https://images.unsplash.com/photo-1542291024-69b89f6a86a6?q=80&w=1800&auto=format&fit=crop"
             alt="Hero sneaker showcase"
             className="relative z-10 mx-auto w-full max-w-lg rounded-3xl border border-white/40 shadow-2xl"
             loading="eager"
